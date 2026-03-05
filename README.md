@@ -37,11 +37,10 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElMoorish&show_icons=true&theme=radical&bg_color=0d0d1a&title_color=00d4ff&text_color=e0e0e0&border_color=1e3a5f&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMoorish&layout=compact&theme=radical&bg_color=0d0d1a&title_color=00d4ff&text_color=e0e0e0&border_color=1e3a5f" alt="Top Languages" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElMoorish&theme=radical&bg_color=0d0d1a&title_color=00d4ff&text_color=e0e0e0&border_color=1e3a5f&area_color=1e3a5f" alt="Activity Graph" />
 </p>
 
 ---
@@ -89,7 +88,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ElMoorish&label=Profile%20Views&color=00d4ff&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=ElMoorish&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
 
 **⭐ From Morocco with ❤️**
 
